@@ -1,0 +1,81 @@
+# 🧪 Taller JavaScript
+
+Este proyecto contiene ejercicios básicos de JavaScript ejecutados desde consola con Node.js.
+
+---
+
+## 📁 Estructura del proyecto
+
+```
+Taller Js/
+│
+├── tiposdatos.js
+├── array.js
+└── README.md
+```
+
+---
+
+## 🚀 Requisitos
+
+Antes de ejecutar el proyecto, asegúrate de tener instalado:
+
+* [Node.js](https://nodejs.org/)
+
+Verifica con:
+
+```bash
+node -v
+```
+
+---
+
+## 📥 Clonar el repositorio
+
+```bash
+git clone <URL_DEL_REPOSITORIO>
+cd Taller Js
+```
+
+---
+
+## ▶️ Ejecutar archivos
+
+Puedes ejecutar cualquier archivo `.js` con:
+
+```bash
+node nombre_archivo.js
+```
+
+### Ejemplos:
+
+```bash
+node tiposdatos.js
+node array.js
+```
+
+---
+
+## 📚 Contenido
+
+* ✅ Tipos de datos
+* ✅ Variables
+* ✅ Arrays
+* ✅ Objetos
+* ✅ Funciones
+* ✅ Entrada por consola (readline)
+
+---
+
+## 🧑‍💻 Autor
+
+* Daniel Esteban Osorio
+
+---
+
+## 📌 Notas
+
+* Todos los ejercicios están hechos con JavaScript puro (sin librerías externas).
+* Se ejecutan directamente en la terminal.
+
+---
